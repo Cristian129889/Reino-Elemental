@@ -1,0 +1,35 @@
+map:planeta_aquaphil
+maxx:300001
+maxy:1000
+p:0:300001:0:shallow
+w:0:0:100:wallnone
+w:300001:0:100:wallnone
+where:en el planeta aquaphil
+z:1:300000:0:60:parte profunda del gigante océano. las corrientes submarinas son realmente agresivas, llegando a causar la destrucción total de la estructura ósea de cualquier criatura no adaptada a este entorno hostil.
+z:1:300000:61:99:parte baja del infinito océano. aquí las corrientes comienzan a intensificarse en fuerza, dando oportunidad aún a los seres vivos a salir sin ninguna herida notable en su organismo.
+ss:1:300000:0:60:nadando.ogg
+ss2:1:300000:0:60:ocean4.ogg:-9
+ss:1:300000:90:200:playa.ogg
+ss:1:300000:60:90:ocean.ogg
+dv:coordenadas
+dv:camera
+dv:baculo
+dv:carro
+z:1:300000:100:1000:planeta aquafil. en este lugar no ves nada más que agua, agua y más agua. solo hay algunas extensiones de tierra visibles pero nada más allá, dejando parecer que la vida es prácticamente imposible en este lugar.
+death:1:300000:0:60:3000:1:3000:*nick* ;murió a causa de la gran presión ejercida por las corrientes del agresivo océano de aquafil!.;:joya_azul:1:1
+sc:1:300000:0:100:shallow
+ss2:1:300000:0:1000:311cancion.ogg:-3
+w2:300:400:120:120:wallfence6
+z:301:399:100:119:loma de arena volcánica que lleva hacia la pequeña isla privada de el_dragon
+z:301:399:119:119:entrada a la isla privada.
+sc:301:399:100:119:deepsand
+w2:1300:1400:120:120:wallfence6
+w2:500:600:120:120:wallfence6
+z:501:599:100:119:loma de arena volcánica que lleva hacia la pequeña isla privada de el_dragon
+z:501:599:119:119:entrada a la isla privada.
+sc:501:599:100:119:deepsand
+w2:700:800:120:120:wallfence6
+z:701:799:100:119:loma de arena volcánica que lleva hacia la pequeña isla privada de azcaban
+z:701:799:119:119:entrada a la isla privada.
+pm2:701:799:119:119:1:0:isla_privada_de_azcaban:door11open:llave_de_la_reja_de_entrada_a_la_isla_de_azcaban:1:no puedes entrar a este lugar.:nada:0:entras a la bonita isla privada.:aah:aah
+sc:701:799:100:119:deepsand

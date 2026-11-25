@@ -1,0 +1,98 @@
+map:helicóptero_de_guerra2
+
+maxx:47
+
+maxy:20
+
+p:0:100:0:metal10
+
+w:0:0:101:wallnone
+
+w:100:0:101:wallnone
+
+z:1:100:0:101:un gran helicóptero por los bentanales logras ber la vista a un lugar extraño solo te toca ber que es lo que pasa...
+
+z:6:6:0:0:entrada a una cabina
+
+p:1:10:5:bed
+
+dr:6:0:1:5:200:none:none:door01.ogg:door02.ogg
+
+dr:1:5:6:0:200:none:none:door01.ogg:door02.ogg
+
+ss:1:100:0:101:helicoptero.ogg
+
+z:1:1:5:5:salida
+
+z:2:10:5:5:cabina del piloto
+
+ss:3:3:5:5:person.ogg
+
+dlg:3:5:hola!:door17open.ogg
+
+z:3:3:5:5:persona
+
+dlg:3:5:no entiendo como la jente es capás de sacrificarse en esas arenas, y ay jente que los bee.:door17open.ogg
+
+dlg:3:5:pero bueno.... yo solo me encargo de manejar esto y yebar a la jente a su destino:door17open.ogg
+
+z:5:5:5:5:aciento donde está sentado el piloto
+
+p:5:5:5:carpet4
+
+w:11:5:5:drawwallet
+
+z:8:8:0:0:entrada a otra cabina
+
+p:12:20:5:vent
+
+dr:8:0:12:12:5:none:none:door03.ogg:door03.ogg
+
+z:12:12:5:5:salida
+
+dr:12:5:8:0:200:none:none:door05.ogg:door06.ogg
+
+z:13:20:5:5:una gran cabina parese ser de los jefes, el espacio es demaciado amplio
+
+z:15:15:5:5:persona
+
+ss:15:15:5:5:person.ogg
+
+dlg:15:5:hola:door17open.ogg
+
+dlg:15:5:soy el ayudante del jefe:door17open.ogg
+
+dlg:15:5:aún que mucha jente piensa que este lugar no existe que son lellendas, la verdad es que si existe y yo y mi amigo el jefe nos divertimos biendo a la jente matándose por la telebición que está aquí:door17open.ogg
+
+z:17:17:5:5:gran pantalla donde se puede ber  la arena desde aquí
+
+w:21:5:5:drawwallet
+
+z:19:19:5:5:jefe
+
+ss:19:19:5:5:person.ogg
+
+dlg:19:5:entonces a puesto 100000 de mgerems 10000 de elementales en....:door17open.ogg
+
+dlg:19:5:y tu que? que haces aquí? inbadiste a inbadir la cabina o que:door17open.ogg
+
+dlg:19:5:yo y amigo el ayudante que está a mi lado isquierdo, nos divertimos biéndolos peliar por la telebisión.:door17open.ogg
+
+dlg:19:5:jaja!:door17open.ogg
+
+dlg:19:5:bueno como sea, escúchame bien si no te bas ahorita mismo? te bana tocar cosas peores.:door17open.ogg
+
+dlg:19:5:así que tu sabrás!:door17open.ogg
+
+dlg:19:5:entendido?:door17open.ogg
+
+w:47:0:0:drawwallet
+
+z:46:46:0:0:zona de lansamiento. estás preparad*g* para enfrentar tu inebitable destino?
+
+where:apunto de enfrentar su inebitable destino
+
+dv:armas
+
+teto:none
+

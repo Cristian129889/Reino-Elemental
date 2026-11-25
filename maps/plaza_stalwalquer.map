@@ -1,0 +1,134 @@
+map:plaza_stalwalquer
+
+maxx:200
+
+maxy:300
+
+p:0:200:0:concreto
+
+w:0:0:300:wallnone
+
+w:200:0:300:wallnone
+
+z:0:200:0:300:...
+
+ss:0:200:0:300:a5.ogg
+
+ss:0:200:0:300:birds8.ogg
+
+ss:0:200:0:300:birds4.ogg
+
+ss2:0:200:0:300:292cancion.ogg:-7
+
+ss:0:200:0:300:pessoas.ogg
+
+ss:0:200:0:300:ambiente21.ogg
+
+ss:0:200:0:300:ambiente22.ogg
+
+ss:0:200:0:300:cassino.ogg
+
+ss:1:1:0:300:ambiente19.ogg
+
+ss:1:1:0:300:birds13.ogg
+
+ss:1:1:0:300:birds16.ogg
+
+ss:199:200:0:300:ambiente de autos.ogg
+
+ss:199:200:0:300:calle de una ciudad -  efecto de sonido.ogg
+
+z:0:1:0:100:Por aquí puedes ir a la parte oeste de la ciudad.
+
+z:199:200:0:100:Por aquí puedes ir a la parte este de la ciudad.
+
+tp:1:1:0:100:205:0:ciudad_de__Stalwalquer:Te diriges hacia la parte occidental de la ciudad.
+
+z:2:198:0:300:El centro de la ciudad. Te encuentras en una gran plaza. Mucha gente camina a tu alrededor, entrando y saliendo de los distintos lugares que aquí se encuentran. Hay varias secciones con algo de pasto y árboles, que contrastan con la multitud de edificaciones. En medio de este lugar, consigues ver una enorme torre, que parece perderse entre las nubes.
+
+tp:15:20:0:100:1:0:banco:Entras al banco de Stalwalquer.
+
+z:15:20:0:10:Entrada al banco de Stalwalquer.
+
+z:160:180:0:20:Entrada a un concurrido centro comercial.
+
+tp:160:180:0:20:1:0:centro_comercial:Entras al centro comercial.
+
+z:90:110:0:100:Entrada a la enorme torre.
+
+tp:90:110:0:100:1:0:mirador_estrellas_de_fuego:Entras a la enorme torre.
+
+z:11:11:0:10:Persona.
+
+ss:11:11:0:0:person.ogg 
+
+dlg:11:0:Odio el banco. Ladrones de mierda.:door17open.ogg
+
+z:30:30:0:10:Persona.
+
+dlg:30:0:¡Adoro el banco! Todos son muy amables.:door17open.ogg
+
+ss:30:30:0:0:person.ogg 
+
+ss:50:50:0:3:persona
+
+ss:50:50:0:0:person.ogg 
+
+ss:60:60:0:0:person.ogg 
+
+z:60:60:0:10:Persona.
+
+dlg:60:0:Dicen que los magos tienen una clase de visión especial.:door17open.ogg
+
+dlg:60:0:Aquella les permite ver la esencia de las cosas; qué son en realidad, su forma verdadera.:door17open.ogg
+
+dlg:60:0:Pero como no soy maga, solo puedo decirte que quiero un helado.:door17open.ogg
+
+z:70:70:0:10:Persona.
+
+dlg:70:0:El mirador es bastante  impresionante.:door17open.ogg
+
+dlg:70:0:Aunque, creo que me parece imposible que ese fuego lleve tanto tiempo encendido.:door17open.ogg
+
+ss:70:70:0:0:person.ogg 
+
+z:115:115:0:10:Persona.
+
+ss:115:115:0:0:person.ogg 
+
+dlg:115:0:Estoy enamorado de mi mejor amiga.:door17open.ogg
+
+z:30:30:0:10:Persona.
+
+dlg:130:0:¡Aléjate!:door17open.ogg
+
+dlg:130:0:Sé quién eres. ¡Sé para quién trabajas!:door17open.ogg
+
+z:130:130:0:10:Persona.
+
+dlg:130:0:Sé que Childain te mandó. Ese idiota...:door17open.ogg
+
+dlg:130:0:Cuántas veces tengo que repetir, que yo no rompí la maldita ventana. Ahora, aléjate, o... hmmm... mierda, me dejé el arma en casa:door17open.ogg
+
+dlg:130:0:Esto nunca pasó. Buen día, amig*g*.:door17open.ogg
+
+ss:130:130:0:0:person.ogg 
+
+z:145:145:0:10:Persona.
+
+dlg:145:0:Creo que ese tipo de la izquierda está loco.:door17open.ogg
+
+ss:145:145:0:0:person.ogg 
+
+tp:199:199:0:100:260:10:ciudad_de_stalwalquer:Sales de la plaza.
+
+where:en el centro de la ciudad de stalwalquer
+
+z:50:50:0:25:Persona.
+
+dlg:50:0:Amo leer, es mi pasión.:door17open.ogg
+
+z:152:152:0:5:entrada a la tienda de gatitos
+
+tp:152:152:0:0:1:0:tienda_de_gatitos:entras a la tienda
+

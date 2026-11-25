@@ -1,0 +1,140 @@
+map:arena2
+
+maxx:1000
+
+maxy:100000
+
+z:1:1000:0:1000:enpiesas a caer a un lugar extraño, y apesar de que traes tu paracaídas enpiesas a tenblar de miedo, te preguntas como fue que estás y como fue que entraste aquí, te preguntas que pasará con tigo, si sobrebibirás, o morirás si los dioces te perdonarán, o te castigarán solo te toca serrar los ojos, y pensar en tu destino...
+
+p:0:1000:0:deepsand
+
+w:0:0:100000:wallnone
+
+w:1000:0:100000:wallnone
+
+z:1:1000:0:100000:un gran desierto caluroso, al mirar al tu arededor alcasas a ver sangre presipisios y jente callendo.
+
+ss:1:1000:0:100000:a4.ogg
+
+sc:22:28:0:10:bridge2
+
+z:22:28:0:10:escaleras a un puente
+
+p:29:30:10:bridge2
+
+p:35:36:10:bridge
+
+z:29:40:0:3:un gran lago, parese estar contaminado por que ves vasura, cadáberes y sangre
+
+p:29:40:0:brejo
+
+z:29:40:10:10:un puente
+
+dv:baculo
+
+p:40:40:10:bridge2
+
+z:40:40:10:10:parte final del puente, aquí puedes abentarte a la derecha, por que ya no ay peligro
+
+z:52:52:0:5:entrada a una fábrica abandonada
+
+w2:53:54:0:5:wall2
+
+dr:52:0:55:0:200:none:none:door01.ogg:door02.ogg
+
+dr:55:0:52:0:200:none:none:door02.ogg:door02.ogg
+
+z:55:55:0:5:salida
+
+z:56:66:0:0:una gran fábrica, alcansas a ver barias máquinas que se an deteriodado con el paso del tienpo.
+
+p:55:66:0:asfalto
+
+ss:55:66:0:0:a1237.ogg
+
+z:65:66:0:0:puerta de salida
+
+w2:66:67:0:0:getwallet
+
+dr:65:0:68:0:200:none:none:door03.ogg:door05.ogg
+
+z:68:68:0:0:puerta de regreso a la fábrica
+
+dr:68:0:65:0:200:none:none:door07.ogg:door07.ogg
+
+item:432,490:60:50000:0:1:mg151:get7.62mm:60000
+
+item:432,490:60:40000:0:900:20.19mm:get30mm:60000
+
+item:1,100:0:30000:0:1:nsv:get9mm:50000
+
+item:1,100:0:40000:0:300:12.70mm:get12mm:60000
+
+item:200,300:0,10:30000:0:1:hk21:getadmingun:50000
+
+item:200,300:0,20:60000:0:600:7.62mm:get30mm:70000
+
+item:250,400:0:30000:0:1:p90:get7.62mm:45000
+
+item:300,400:0:40000:0:350:5.28mm:get30mm:55000
+
+item:472,515:0:50000:0:1:gau-19:get7.62mm:60000
+
+item:472,515:80:50000:0:1:gau-19:get7.62mm:60000
+
+item:472,520:80:30000:0:1000:7.70mm:get12mm:55000
+
+where:en un campo de batalla a muerte
+
+item:200,400:0:100000:0:500:20.19mm:get5.56mm:110000
+
+item:1300,1450:0:50000:0:1:mg08:armatomada7:80000
+
+item:700,980:0:120000:0:1:mg08:armatomada7:150000
+
+item:1200,1900:0:90000:0:760:7.92mm:get5.56mm:120000
+
+item:1200,1600:0:90000:0:760:7.92mm:get5.56mm:120000
+
+item:600,700:0:60000:0:1:poción_del_trueno:getenergy_drug:60000
+
+item:1021,1100:0:60000:0:1:poción_angelical:getenergy_drug:90000
+
+item:700,800:0:60000:0:800:7.62mm:get30mm:70000
+
+item:1681,1710:60:60000:0:1:ametralladora_ho103:get7.62mm:60000
+
+item:1680,1711:80:50000:0:1000:12.70mm:get12mm:60000
+
+item:1680,1711:80:50000:0:1:munición_yuserth_p333:get30mm:60000
+
+item:1500,2000:0:60000:0:1:poción_del_trueno:getenergy_drug:60000
+
+item:200,600:0:100000:0:1:francotirador_yuserth_p333:armatomada7:120000
+
+item:405,600:0:100000:0:1:francotirador_yuserth_p333:armatomada7:120000
+
+dv:portal_De_luz
+
+dv:portal
+
+dv:runa_dorada
+
+dv:runa_de_la_fraternidad
+
+dv:teleportador
+
+dv:teletransportador
+
+dv:tlp_mod
+
+dv:tlp_beta
+
+dv:tlp_dev
+
+where:apunto de enfrentar su inebitable destino
+
+death:29:40:0:0:3:1:10000000:*nick* murió en un lago contaminado!:nada:0:0
+
+dv:polvo_de_energía
+

@@ -1,0 +1,217 @@
+map:barrio_residencial
+maxx:10000
+maxy:400
+p:0:10000:0:concrete2
+w:0:0:15:wall
+w:10001:0:400:camerawall
+dv:camera
+z:2:10000:0:400:barrio residencial. ves una extensa calle con distintas casas alineadas.
+z:1:1:0:400:salida a la ciudad.
+ss:1:5000:0:400:ambiente de autos.ogg
+tp:1:1:0:0:470:100:ciudad_de_stalwalquer:sales del barrio hacia la gran y bonita ciudad.
+z:5:5:0:0:casa de akemy.
+z:10:10:0:0:casa de alfa.
+z:15:15:0:0:casa de andreamorfin.
+z:20:20:0:0:casa de andresitomegaplay.
+z:25:25:0:0:casa de anthonycs.
+z:30:30:0:0:casa de antonella.
+z:35:35:0:0:casa de arielfmeza.
+z:40:40:0:0:casa de arisa.
+z:45:45:0:0:casa de arman.
+z:50:50:0:0:casa de axelcepeda.
+z:55:55:0:0:casa de bruno.
+z:60:60:0:0:casa de cochiloco.
+z:65:65:0:0:casa de danpani90.
+z:70:70:0:0:casa de dimi.
+z:75:75:0:0:casa de dulce.
+z:80:80:0:0:casa de edu.
+z:85:85:0:0:casa de elinmortal.
+z:90:90:0:0:casa de elluis.
+z:95:95:0:0:casa de elsanti.
+z:100:100:0:0:casa de emiliano.
+z:105:105:0:0:casa de encoreunfois.
+z:110:110:0:0:casa de enzo14.
+z:115:115:0:0:casa de fernandarodriguez.
+z:120:120:0:0:casa de fresita.
+z:125:125:0:0:casa de FRIG.
+z:130:130:0:0:casa de gabino.
+z:135:135:0:0:casa de gandalff.
+z:140:140:0:0:casa de gatalouca.
+z:145:145:0:0:casa de gohan.
+z:150:150:0:0:casa de greenstar29.
+z:155:155:0:0:casa de guadalupe.
+z:160:160:0:0:casa de hades.
+z:165:165:0:0:casa de haishel.
+z:170:170:0:0:casa de harrypotter.
+z:175:175:0:0:casa de hermionegrangger.
+z:180:180:0:0:casa de intercâmbio.
+z:185:185:0:0:casa de javierotsutsuki.
+z:190:190:0:0:casa de jhonatansantos.
+z:195:195:0:0:casa de jorge35.
+z:200:200:0:0:casa de KaguyaOtsutsuki.
+z:205:205:0:0:casa de lait.
+z:210:210:0:0:casa de laPoetisaAzul.
+z:215:215:0:0:casa de latifa.
+z:220:220:0:0:casa de leiri.
+z:225:225:0:0:casa de Libna.
+z:230:230:0:0:casa de littlewolff.
+z:235:235:0:0:casa de lobosolitario.
+z:240:240:0:0:casa de locoenloquecido.
+z:245:245:0:0:casa de loquendito.
+z:250:250:0:0:casa de luna.
+z:255:255:0:0:casa de luna95.
+z:260:260:0:0:casa de lunatica.
+z:265:265:0:0:casa de manzano.
+z:270:270:0:0:casa de maria.
+z:275:275:0:0:casa de marlos.
+z:280:280:0:0:casa de mikael.
+z:285:285:0:0:casa de miltonbsc.
+z:290:290:0:0:casa de mistertopero.
+z:295:295:0:0:casa de nazeli.
+z:300:300:0:0:casa de nikylarson.
+z:305:305:0:0:casa de nomada29.
+z:310:310:0:0:casa de octavio.
+z:315:315:0:0:casa de pabloescovar.
+z:320:320:0:0:casa de palermo.
+z:325:325:0:0:casa de porchepaez.
+z:330:330:0:0:casa de princesita.
+z:335:335:0:0:casa de Kaboerain.
+z:340:340:0:0:casa de samuelfarias.
+z:345:345:0:0:casa de scorpion.
+z:350:350:0:0:casa de sebi.
+z:355:355:0:0:casa de sharon.
+z:360:360:0:0:casa de skorpiyus.
+z:365:365:0:0:casa de taylla.
+z:370:370:0:0:casa de valencia.
+z:375:375:0:0:casa de yasemin.
+z:380:380:0:0:casa de yuli.
+pm2:385:385:0:0:1:0:casa_de_elserpiente:door17open:llave_de_la_casa_de_elserpiente:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_elserpiente:0:entras a la hermosa casa.:XD
+z:385:385:0:0:casa de elserpiente.
+pm2:390:390:0:0:1:0:casa_de_zeoltan:door17open:llave_de_la_casa_de_zeoltan:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_zeoltan:0:entras a la hermosa casa.:XD
+z:390:390:0:0:casa de zeoltan.
+pm2:395:395:0:0:1:0:casa_de_darkprincess:door17open:llave_de_la_casa_de_darkprincess:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_darkprincess:0:entras a la hermosa casa.:XD
+z:395:395:0:0:casa de darkprincess.
+pm2:400:400:0:0:1:0:casa_de_valesca:door17open:llave_de_la_casa_de_valesca:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_valesca:0:entras a la hermosa casa.:XD
+z:400:400:0:0:casa de valesca.
+pm2:405:405:0:0:1:0:casa_de_oirionpax:door17open:llave_de_la_casa_de_oirionpax:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_oirionpax:0:entras a la hermosa casa.:XD
+z:405:405:0:0:casa de oirionpax.
+pm2:410:410:0:0:1:0:casa_de_princesafeliz:door17open:llave_de_la_casa_de_princesafeliz:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_princesafeliz:0:entras a la hermosa casa.:XD
+z:410:410:0:0:casa de princesafeliz.
+pm2:415:415:0:0:1:0:casa_de_miguelantonio:door17open:llave_de_la_casa_de_miguelantonio:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_miguelantonio:0:entras a la hermosa casa.:XD
+z:415:415:0:0:casa de miguelantonio.
+pm2:420:420:0:0:1:0:casa_de_RafaLartigue:door17open:llave_de_la_casa_de_RafaLartigue:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_RafaLartigue:0:entras a la hermosa casa.:XD
+z:420:420:0:0:casa de RafaLartigue.
+pm2:425:425:0:0:1:0:casa_de_angelblanco18:door17open:llave_de_la_casa_de_angelblanco18:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_angelblanco18:0:entras a la hermosa casa.:XD
+z:425:425:0:0:casa de angelblanco18.
+pm2:430:430:0:0:1:0:casa_de_lapatrona:door17open:llave_de_la_casa_de_lapatrona:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_lapatrona:0:entras a la hermosa casa.:XD
+z:430:430:0:0:casa de lapatrona.
+pm2:435:435:0:0:1:0:casa_de_yocelyn:door17open:llave_de_la_casa_de_yocelyn:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_yocelyn:0:entras a la hermosa casa.:XD
+z:435:435:0:0:casa de yocelyn.
+pm2:440:440:0:0:1:0:casa_de_mau:door17open:llave_de_la_casa_de_mau:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_mau:0:entras a la hermosa casa.:XD
+z:440:440:0:0:casa de mau.
+pm2:445:445:0:0:1:0:casa_de_comandante:door17open:llave_de_la_casa_de_comandante:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_comandante:0:entras a la hermosa casa.:XD
+z:445:445:0:0:casa de comandante.
+teto:none
+pm2:450:450:0:0:1:0:casa_de_Grekko:door17open:llave_de_la_casa_de_Grekko:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_Grekko:0:entras a la hermosa casa.:XD
+z:450:450:0:0:casa de Grekko.
+pm2:455:455:0:0:1:0:casa_de_notengonick:door17open:llave_de_la_casa_de_notengonick:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_notengonick:0:entras a la hermosa casa.:XD
+z:455:455:0:0:casa de notengonick.
+pm2:460:460:0:0:1:0:casa_de_tapetuzo:door17open:llave_de_la_casa_de_tapetuzo:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_tapetuzo:0:entras a la hermosa casa.:XD
+z:460:460:0:0:casa de tapetuzo.
+pm2:465:465:0:0:1:0:casa_de_baronrojo:door17open:llave_de_la_casa_de_baronrojo:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_baronrojo:0:entras a la hermosa casa.:XD
+z:465:465:0:0:casa de baronrojo.
+pm2:470:470:0:0:1:0:casa_de_edgar12:door17open:llave_de_la_casa_de_edgar12:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_edgar12:0:entras a la hermosa casa.:XD
+z:470:470:0:0:casa de edgar12.
+pm2:475:475:0:0:1:0:casa_de_kosem:door17open:llave_de_la_casa_de_kosem:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_kosem:0:entras a la hermosa casa.:XD
+z:475:475:0:0:casa de kosem.
+pm2:480:480:0:0:1:0:casa_de_josuecordero:door17open:llave_de_la_casa_de_josuecordero:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_josuecordero:0:entras a la hermosa casa.:XD
+z:480:480:0:0:casa de josuecordero.
+pm2:485:485:0:0:1:0:casa_de_kathleen:door17open:llave_de_la_casa_de_kathleen:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_kathleen:0:entras a la hermosa casa.:XD
+z:485:485:0:0:casa de kathleen.
+pm2:490:490:0:0:1:0:casa_de_nabuco:door17open:llave_de_la_casa_de_nabuco:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_nabuco:0:entras a la hermosa casa.:XD
+z:490:490:0:0:casa de nabuco.
+pm2:495:495:0:0:1:0:casa_de_warriorprincess:door17open:llave_de_la_casa_de_warriorprincess:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_warriorprincess:0:entras a la hermosa casa.:XD
+z:495:495:0:0:casa de warriorprincess.
+pm2:500:500:0:0:1:0:casa_de_JamesPotter:door17open:llave_de_la_casa_de_JamesPotter:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_JamesPotter:0:entras a la hermosa casa.:XD
+z:500:500:0:0:casa de JamesPotter.
+pm2:505:505:0:0:1:0:casa_de_paulina:door17open:llave_de_la_casa_de_paulina:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_paulina:0:entras a la hermosa casa.:XD
+z:505:505:0:0:casa de paulina.
+pm2:510:510:0:0:1:0:casa_de_jordan:door17open:llave_de_la_casa_de_jordan:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_jordan:0:entras a la hermosa casa.:XD
+z:510:510:0:0:casa de jordan.
+pm2:515:515:0:0:1:0:casa_de_danielsousa:door17open:llave_de_la_casa_de_danielsousa:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_danielsousa:0:entras a la hermosa casa.:XD
+z:515:515:0:0:casa de danielsousa.
+pm2:520:520:0:0:1:0:casa_de_carrasco:door17open:llave_de_la_casa_de_carrasco:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_carrasco:0:entras a la hermosa casa.:XD
+z:520:520:0:0:casa de carrasco.
+pm2:525:525:0:0:1:0:casa_de_MikeMerodeador:door17open:llave_de_la_casa_de_MikeMerodeador:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_MikeMerodeador:0:entras a la hermosa casa.:XD
+z:525:525:0:0:casa de MikeMerodeador.
+pm2:530:530:0:0:1:0:casa_de_facu:door17open:llave_de_la_casa_de_facu:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_facu:0:entras a la hermosa casa.:XD
+z:530:530:0:0:casa de facu.
+pm2:535:535:0:0:1:0:casa_de_luffy:door17open:llave_de_la_casa_de_luffy:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_luffy:0:entras a la hermosa casa.:XD
+z:535:535:0:0:casa de luffy.
+pm2:540:540:0:0:1:0:casa_de_chavory:door17open:llave_de_la_casa_de_chavory:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_chavory:0:entras a la hermosa casa.:XD
+z:540:540:0:0:casa de chavory.
+pm2:545:545:0:0:1:0:casa_de_elisa:door17open:llave_de_la_casa_de_elisa:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_elisa:0:entras a la hermosa casa.:XD
+z:545:545:0:0:casa de elisa.
+pm2:550:550:0:0:1:0:casa_de_EdarStark:door17open:llave_de_la_casa_de_EdarStark:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_EdarStark:0:entras a la hermosa casa.:XD
+z:550:550:0:0:casa de EdarStark.
+pm2:555:555:0:0:1:0:casa_de_steven:door17open:llave_de_la_casa_de_steven:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_steven:0:entras a la hermosa casa.:XD
+z:555:555:0:0:casa de steven.
+pm2:560:560:0:0:1:0:casa_de_Blair:door17open:llave_de_la_casa_de_Blair:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_Blair:0:entras a la hermosa casa.:XD
+z:560:560:0:0:casa de Blair.
+pm2:565:565:0:0:1:0:casa_de_duende:door17open:llave_de_la_casa_de_duende:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_duende:0:entras a la hermosa casa.:XD
+z:565:565:0:0:casa de duende.
+pm2:570:570:0:0:1:0:casa_de_paola:door17open:llave_de_la_casa_de_paola:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_paola:0:entras a la hermosa casa.:XD
+z:570:570:0:0:casa de paola.
+pm2:575:575:0:0:1:0:casa_de_fingwe:door17open:llave_de_la_casa_de_fingwe:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_fingwe:0:entras a la hermosa casa.:XD
+z:575:575:0:0:casa de fingwe.
+pm2:580:580:0:0:1:0:casa_de_isarobles13:door17open:llave_de_la_casa_de_isarobles13:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_isarobles13:0:entras a la hermosa casa.:XD
+z:580:580:0:0:casa de isarobles13.
+pm2:585:585:0:0:1:0:casa_de_lionel:door17open:llave_de_la_casa_de_lionel:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_lionel:0:entras a la hermosa casa.:XD
+z:585:585:0:0:casa de lionel.
+pm2:590:590:0:0:1:0:casa_de_elyabe:door17open:llave_de_la_casa_de_elyabe:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_elyabe:0:entras a la hermosa casa.:XD
+z:590:590:0:0:casa de elyabe.
+pm2:595:595:0:0:1:0:casa_de_nokia:door17open:llave_de_la_casa_de_nokia:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_nokia:0:entras a la hermosa casa.:XD
+z:595:595:0:0:casa de nokia.
+pm2:600:600:0:0:1:0:casa_de_Alberto:door17open:llave_de_la_casa_de_Alberto:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_Alberto:0:entras a la hermosa casa.:XD
+z:600:600:0:0:casa de Alberto.
+pm2:605:605:0:0:1:0:casa_de_elFilosofaurio:door17open:llave_de_la_casa_de_elFilosofaurio:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_elFilosofaurio:0:entras a la hermosa casa.:XD
+z:605:605:0:0:casa de elFilosofaurio.
+pm2:610:610:0:0:1:0:casa_de_emmanuel:door17open:llave_de_la_casa_de_emmanuel:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_emmanuel:0:entras a la hermosa casa.:XD
+z:610:610:0:0:casa de emmanuel.
+pm2:615:615:0:0:1:0:casa_de_cris:door17open:llave_de_la_casa_de_cris:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_cris:0:entras a la hermosa casa.:XD
+z:615:615:0:0:casa de cris.
+pm2:620:620:0:0:1:0:casa_de_jesusmarmolejo:door17open:llave_de_la_casa_de_jesusmarmolejo:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_jesusmarmolejo:0:entras a la hermosa casa.:XD
+z:620:620:0:0:casa de jesusmarmolejo.
+pm2:625:625:0:0:1:0:casa_de_teleporter:door17open:llave_de_la_casa_de_teleporter:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_teleporter:0:entras a la hermosa casa.:XD
+z:625:625:0:0:casa de teleporter.
+pm2:630:630:0:0:1:0:casa_de_airtonsenna:door17open:llave_de_la_casa_de_airtonsenna:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_airtonsenna:0:entras a la hermosa casa.:XD
+z:630:630:0:0:casa de airtonsenna.
+pm2:635:635:0:0:1:0:casa_de_lima:door17open:llave_de_la_casa_de_lima:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_lima:0:entras a la hermosa casa.:XD
+z:635:635:0:0:casa de lima.
+pm2:640:640:0:0:1:0:casa_de_ariel:door17open:llave_de_la_casa_de_ariel:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_ariel:0:entras a la hermosa casa.:XD
+z:640:640:0:0:casa de ariel.
+pm2:645:645:0:0:1:0:casa_de_kral:door17open:llave_de_la_casa_de_kral:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_kral:0:entras a la hermosa casa.:XD
+z:645:645:0:0:casa de kral.
+pm2:650:650:0:0:1:0:casa_de_chavinho:door17open:llave_de_la_casa_de_chavinho:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_chavinho:0:entras a la hermosa casa.:XD
+z:650:650:0:0:casa de chavinho.
+pm2:655:655:0:0:1:0:casa_de_eltriste:door17open:llave_de_la_casa_de_eltriste:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_eltriste:0:entras a la hermosa casa.:XD
+z:655:655:0:0:casa de eltriste.
+pm2:660:660:0:0:1:0:casa_de_Ulises:door17open:llave_de_la_casa_de_Ulises:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_Ulises:0:entras a la hermosa casa.:XD
+z:660:660:0:0:casa de Ulises.
+pm2:665:665:0:0:1:0:casa_de_karlilaprincesa:door17open:llave_de_la_casa_de_karlilaprincesa:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_karlilaprincesa:0:entras a la hermosa casa.:XD
+z:665:665:0:0:casa de karlilaprincesa.
+z:284:284:0:0:una jaula plateada.
+pm2:670:670:0:0:1:0:casa_de_isaac:door17open:llave_de_la_casa_de_isaac:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_isaac:0:entras a la hermosa casa.:XD
+z:670:670:0:0:casa de isaac.
+pm2:30:30:0:0:1:0:casa_de_sebi:door17open:llave_de_la_casa_de_sebi:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_sebi:0:entras a la hermosa casa.:XD
+z:30:30:0:0:casa de sebi.
+z:3:3:0:0:un misterioso portal iluminado con una luz verde.
+ss:3:3:0:0:portal.ogg
+pm2:35:35:0:0:1:0:casa_de_elFilosofaurio:door17open:llave_de_la_casa_de_elFilosofaurio:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_elFilosofaurio:0:entras a la hermosa casa.:XD
+z:35:35:0:0:casa de elFilosofaurio.
+where:en el barrio residencial
+ss2:1:100000:0:50:00cancion.ogg:-5
+pm2:40:40:0:0:1:0:casa_de_sinistro:door17open:llave_de_la_casa_de_sinistro:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_sinistro:0:entras a la hermosa casa.:XD
+z:40:40:0:0:casa de sinistro.
+pm2:45:45:0:0:1:0:casa_de_merlin:door17open:llave_de_la_casa_de_merlin:1:no tienes lo necesario para entrar aquí.:llave_de_la_casa_de_merlin:0:entras a la hermosa casa.:XD
+z:45:45:0:0:casa de merlin.

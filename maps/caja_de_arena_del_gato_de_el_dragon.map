@@ -1,0 +1,15 @@
+map:caja_de_arena_del_gato_de_el_dragon
+maxx:30
+maxy:25
+p:0:30:0:deepsand
+w:0:0:25:wallnone
+w:30:0:25:wallbank
+z:2:30:0:25:una bonita caja de arena para tu gatito. Con arena limpia y una bola de estambre en una esquina, ¡parece el lugar perfecto donde puede jugar y divertirse!
+z:1:1:0:5:salida de la  caja
+teto:none
+dv:runa_de_portal
+ss3:1:30:0:0:a14.ogg:-15
+sc:27:29:0:0:carpet5
+dv:báculo
+z:27:30:0:25:una gran cama echa completamente de estambre, para que tu gatito se sienta agusto.
+tp:1:1:0:0:7:0:salidacaja:Sales de la caja.

@@ -1,0 +1,14 @@
+map:tienda_de_gatitos
+maxx:11
+maxy:10
+w:0:0:10:wallnone
+w:11:0:10:wallnone
+where:en la tienda de gatitos
+z:1:10:0:10000:una tienda de gatitos, aquí podrás conprar un hermoso gatito.
+ss2:1:10:0:0:music_madrugando.ogg
+z:10:10:0:1000:zona de gatitos, aquí podrás comprar un adorable gatito, ¡esperamos que te cientas cómod*g*.
+store:10:10:0:0:tienda_de_gatitos
+z:1:1:0:5:salida de la tienda
+tp:1:1:0:0:152:0:plaza_stalwalquer:sales de la tienda
+p:1:10:0:concrete10
+teto:none
