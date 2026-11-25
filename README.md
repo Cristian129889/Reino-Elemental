@@ -4,7 +4,7 @@ Este repositorio publica los archivos que el cliente descarga desde GitHub.
 
 ## Archivos
 
-- `version.txt`: versión del cliente (`version:5.24`). El cliente quita el prefijo y los saltos de línea antes de comparar.
+- `version.txt`: versión del cliente (`version:5.25`). El cliente quita el prefijo y los saltos de línea antes de comparar.
 - `Reino Elemental.exe`: ejecutable del cliente. Se descarga solo este archivo y `actualizador.exe` lo reemplaza cuando el juego ya se cerró.
 - `version_som.txt`, `version_maps.txt`: versiones de sonidos y mapas.
 - `sounds/index.txt`: sonidos `.ogg` publicados, uno por línea como `nombre.ogg|sounds/nombre%20codificado.ogg`. El cliente compara con su carpeta `sounds` y solo baja los que faltan (o todos los del índice si cambió la versión).

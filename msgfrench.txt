@@ -1,0 +1,1 @@
+Bienvenue dans Reino Elemental. Ce message du jour est publié sur GitHub et s'affiche à l'ouverture du jeu lorsqu'il change.
