@@ -124,6 +124,7 @@ motoloop.ogg|sounds/motoloop.ogg
 notificacoes2 retro_vehicle_choppy_engine_01.ogg|sounds/notificacoes2%20retro_vehicle_choppy_engine_01.ogg
 notificacoes2 retro_vehicle_choppy_engine_02.ogg|sounds/notificacoes2%20retro_vehicle_choppy_engine_02.ogg
 notify_bell.ogg|sounds/notify_bell.ogg
+notify_message.ogg|sounds/notify_message.ogg
 notify_trumpet.ogg|sounds/notify_trumpet.ogg
 notify32.ogg|sounds/notify32.ogg
 notify37.ogg|sounds/notify37.ogg
