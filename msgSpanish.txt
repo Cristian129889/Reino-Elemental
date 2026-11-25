@@ -1,0 +1,1 @@
+Bienvenido a Reino Elemental. Este mensaje se publica en GitHub y se muestra al abrir el juego cuando cambia.

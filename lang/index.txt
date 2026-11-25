@@ -1,0 +1,4 @@
+spanish.lang
+english.lang
+portuguese.lang
+french.lang

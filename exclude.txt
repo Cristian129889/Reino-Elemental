@@ -1,0 +1,6 @@
+config-test.nvgt
+lang\*
+players\*
+*.usr
+*.dat
+RE_nvgt.dat
