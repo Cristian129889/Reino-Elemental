@@ -140,6 +140,7 @@ peido3.ogg|sounds/peido3.ogg
 pingstop.ogg|sounds/pingstop.ogg
 playersafe.ogg|sounds/playersafe.ogg
 playerunsafe.ogg|sounds/playerunsafe.ogg
+pm.ogg|sounds/pm.ogg
 radar.ogg|sounds/radar.ogg
 radiochannel.ogg|sounds/radiochannel.ogg
 radiooff.ogg|sounds/radiooff.ogg
